@@ -1,0 +1,10 @@
+name: JumpAndRun
+version: ${project.version}
+main: de.wt4b.jumpandrun.Main
+api-version: 1.17
+authors: [ WT4B ]
+description: Create your own JumpAndRuns
+commands:
+  jumpandrun:
+    aliases:
+      - jar
